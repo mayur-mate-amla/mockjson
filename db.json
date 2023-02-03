@@ -1,0 +1,36 @@
+{
+	"navigation": {
+		"meta": {
+			"count": 4,
+			"next_page": null,
+			"previous_page": null
+		},
+		"data": {
+			"navigation": [{
+				"meta": {
+					"id": 222389
+				},
+				"label": "Home",
+				"url": "/"
+			}, {
+				"meta": {
+					"id": 222390
+				},
+				"label": "About",
+				"url": "/about"
+			}, {
+				"meta": {
+					"id": 222391
+				},
+				"label": "Products",
+				"url": "/products"
+			}, {
+				"meta": {
+					"id": 222393
+				},
+				"label": "Contact",
+				"url": "/contact"
+			}]
+		}
+	}
+}
