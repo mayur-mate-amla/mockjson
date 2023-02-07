@@ -1,36 +1,113 @@
 {
-	"navigation": {
-		"meta": {
-			"count": 4,
-			"next_page": null,
-			"previous_page": null
-		},
-		"data": {
-			"navigation": [{
-				"meta": {
-					"id": 222389
-				},
-				"label": "Home",
-				"url": "/"
-			}, {
-				"meta": {
-					"id": 222390
-				},
-				"label": "About",
-				"url": "/about"
-			}, {
-				"meta": {
-					"id": 222391
-				},
-				"label": "Products",
-				"url": "/products"
-			}, {
-				"meta": {
-					"id": 222393
-				},
-				"label": "Contact",
-				"url": "/contact"
-			}]
-		}
-	}
+  "navigation": {
+    "meta": {
+      "count": 4,
+      "next_page": null,
+      "previous_page": null
+    },
+    "data": {
+      "navigation": [
+        {
+          "meta": {
+            "id": 222389
+          },
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "meta": {
+            "id": 222390
+          },
+          "label": "About",
+          "url": "/about"
+        },
+        {
+          "meta": {
+            "id": 222391
+          },
+          "label": "Products",
+          "url": "/products"
+        },
+        {
+          "meta": {
+            "id": 222393
+          },
+          "label": "Contact",
+          "url": "/contact"
+        }
+      ]
+    }
+  },
+  "dynamic-page": {
+    "sections": {
+      "component_id": {
+        "component": "banner",
+        "component_blocks": {
+          "block_id": {
+            "component_id": {
+              "component": "slide",
+              "settings": {
+                "heading": "",
+                "image": "shopify://shop_images/MobileBannerBF.jpg",
+                "desktop_image": "shopify://shop_images/blackfridaybanner.png",
+                "text_color": "#ffffff",
+                "heading_font_size": 16,
+                "link_text": "Shop Now",
+                "url": "shopify://pages/black-friday-2022",
+                "hearts": "",
+                "hearts_desk": ""
+              }
+            },
+            "component_id_2": {
+              "component": "slide",
+              "settings": {
+                "heading": "",
+                "image": "shopify://shop_images/MobileBannerBF.jpg",
+                "desktop_image": "shopify://shop_images/blackfridaybanner.png",
+                "text_color": "#ffffff",
+                "heading_font_size": 16,
+                "link_text": "Shop Now",
+                "url": "shopify://pages/black-friday-2022",
+                "hearts": "",
+                "hearts_desk": ""
+              }
+            }
+          }
+        },
+        "block_order": ["block_id_1", "block_id_2"]
+      },
+      "component_id_2": {
+        "component": "multicolumn",
+        "component_blocks": {
+          "block_id": {
+            "component_id": {
+              "component": "column",
+              "settings": {
+                "image": "shopify://shop_images/shorts2_resized.png",
+                "title": "Luxire Shorts",
+                "text": "<p>Newx</p>",
+                "link_label": "Luxire Shorts",
+                "link": "shopify://collections/new-x-shorts"
+              }
+            },
+            "component_id_2": {
+              "component": "column",
+              "settings": {
+                "heading": "",
+                "image": "shopify://shop_images/MobileBannerBF.jpg",
+                "desktop_image": "shopify://shop_images/blackfridaybanner.png",
+                "text_color": "#ffffff",
+                "heading_font_size": 16,
+                "link_text": "Shop Now",
+                "url": "shopify://pages/black-friday-2022",
+                "hearts": "",
+                "hearts_desk": ""
+              }
+            }
+          },
+          "block_order": ["block_id_1", "block_id_2"]
+        }
+      }
+    }
+  }
 }
