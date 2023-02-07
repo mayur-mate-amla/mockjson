@@ -48,8 +48,8 @@
               "component": "slide",
               "settings": {
                 "heading": "",
-                "image": "https://picsum.photos/seed/picsum/200/300",
-                "desktop_image": "https://picsum.photos/seed/picsum/200/300",
+                "image": "https://mdbootstrap.com/img/Photos/Slides/img%20(15).jpg",
+                "desktop_image": "https://mdbootstrap.com/img/Photos/Slides/img%20(15).jpg",
                 "text_color": "#ffffff",
                 "heading_font_size": 16,
                 "link_text": "Shop Now",
@@ -62,8 +62,22 @@
               "component": "slide",
               "settings": {
                 "heading": "",
-                "image": "https://picsum.photos/200/300?grayscale",
-                "desktop_image": "https://picsum.photos/200/300?grayscale",
+                "image": "https://mdbootstrap.com/img/Photos/Slides/img%20(22).jpg",
+                "desktop_image": "https://mdbootstrap.com/img/Photos/Slides/img%20(22).jpg",
+                "text_color": "#ffffff",
+                "heading_font_size": 16,
+                "link_text": "Shop Now",
+                "url": "shopify://pages/black-friday-2022",
+                "hearts": "",
+                "hearts_desk": ""
+              }
+            },
+            "component_id_3": {
+              "component": "slide",
+              "settings": {
+                "heading": "",
+                "image": "https://mdbootstrap.com/img/Photos/Slides/img%20(23).jpg",
+                "desktop_image": "https://mdbootstrap.com/img/Photos/Slides/img%20(23).jpg",
                 "text_color": "#ffffff",
                 "heading_font_size": 16,
                 "link_text": "Shop Now",
