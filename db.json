@@ -47,7 +47,8 @@
             "component_id": {
               "component": "slide",
               "settings": {
-                "heading": "",
+                "heading": "Slide One",
+                "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
                 "image": "https://mdbootstrap.com/img/Photos/Slides/img%20(15).jpg",
                 "desktop_image": "https://mdbootstrap.com/img/Photos/Slides/img%20(15).jpg",
                 "text_color": "#ffffff",
@@ -61,7 +62,8 @@
             "component_id_2": {
               "component": "slide",
               "settings": {
-                "heading": "",
+                "heading": "Slide Two",
+				"description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
                 "image": "https://mdbootstrap.com/img/Photos/Slides/img%20(22).jpg",
                 "desktop_image": "https://mdbootstrap.com/img/Photos/Slides/img%20(22).jpg",
                 "text_color": "#ffffff",
@@ -75,7 +77,8 @@
             "component_id_3": {
               "component": "slide",
               "settings": {
-                "heading": "",
+                "heading": "Slide Three",
+				"description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
                 "image": "https://mdbootstrap.com/img/Photos/Slides/img%20(23).jpg",
                 "desktop_image": "https://mdbootstrap.com/img/Photos/Slides/img%20(23).jpg",
                 "text_color": "#ffffff",
