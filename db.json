@@ -102,7 +102,7 @@
               "settings": {
                 "image": "https://mdbcdn.b-cdn.net/img/new/avatars/5.webp",
                 "title": "Luxire Shorts",
-                "text": "<p>Newx</p>",
+                "text": "View Details",
                 "link_label": "Luxire Shorts",
                 "link": "shopify://collections/new-x-shorts"
               }
@@ -111,9 +111,9 @@
               "component": "column",
               "settings": {
                 "image": "https://mdbcdn.b-cdn.net/img/new/avatars/2.webp",
-                "title": "Luxire Shorts",
-                "text": "<p>Details</p>",
-                "link_label": "Luxire Shorts",
+                "title": "Lorem Ipsum",
+                "text": "View Details",
+                "link_label": "Lorem Ipsum",
                 "link": "shopify://collections/new-x-shorts"
               }
             }
