@@ -34,6 +34,13 @@
           },
           "label": "Contact",
           "url": "/contact"
+        },
+        {
+          "meta": {
+            "id": 222393
+          },
+          "label": "Dynamic Page",
+          "url": "/dynamic-page"
         }
       ]
     }
